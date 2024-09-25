@@ -1,0 +1,17 @@
+body {
+    width: 700px;
+    min-height: 300px;
+    margin-right: auto;
+    margin-left : auto;
+    margin-top:1.5%;
+    margin-bottom:1.5%;
+    background-color: darkgray;
+}
+
+h1 {
+    font-size: 30px;
+    font-size: 3rem;
+    position: relative;
+    padding: 1.5rem;
+    text-align: center;
+}
